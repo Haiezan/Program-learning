@@ -1,0 +1,16 @@
+
+01fwrite/.vs/01fwrite/v16/.suo
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.ipch
+*.recipe
+*.ilk
+*.log
+*.obj
+*.lastbuildstate
+*.tlog
+*.idb
+*.pdb
+*.exe
